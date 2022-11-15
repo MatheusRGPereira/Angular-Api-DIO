@@ -9,6 +9,5 @@
  
  
  #### ✔️ - Criação da camada Service
-  * Foi criado um pequeno array com 
   * Foi criada uma camada de service onde realizamos um Get na api do Rick and Morty
  
